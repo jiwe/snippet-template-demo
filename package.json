@@ -11,6 +11,7 @@
     "react-scripts": "4.0.3",
     "web-vitals": "^1.1.2"
   },
+  "homepage": "https://jiwe.github.io/snippet-template-demo",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
@@ -34,6 +35,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "homepage": "https://jiwe.github.io/snippet-template-demo"
+  }
 }
