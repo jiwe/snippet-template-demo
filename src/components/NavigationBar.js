@@ -2,8 +2,8 @@ const NavigationBar = () => {
   return (
   <div>
     <div className="head">
-      <img src="/Assets/Logo.svg" />
-      <img src="/Assets/Search Icon.svg" />
+      <img src="../Assets/Logo.svg" alt=""/>
+      <img src="../Assets/Search Icon.svg" alt=""/>
       <button>sign in</button>
       <button>Get Started - it's free</button>
     </div>
@@ -12,7 +12,7 @@ const NavigationBar = () => {
 	    <p>With Snipper,create fully customizable code snippets in a matter of seconds right from your browseer</p>
       	    <button>Get Started - it's free</button>
 		<p>no credit card required</p>
-	<img src="/Assets/Snippet Image.png" />
+	<img src="../Assets/Snippet Image.png" alt=""/>
     </div>
   </div>
   )
